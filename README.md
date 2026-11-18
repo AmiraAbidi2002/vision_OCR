@@ -21,9 +21,6 @@ image → prétraitement → OCR (mots + boîtes) → LayoutLMv3 (étiquetage) �
 | Fichier | Rôle |
 |---|---|
 | `Projet_Vision_OCR_LayoutLMv3.ipynb` | Notebook complet : entraînement, évaluation, ablation, comparaison d'OCR, pipeline bout-en-bout, démo Gradio |
-| `results.json` | Résultats chiffrés exportés par le notebook |
-| `requirements_versions.txt` | Versions exactes des bibliothèques utilisées |
-| `Presentation_Projet_Vision_OCR_Abidi_BenRejeb.pptx` | Présentation de la soutenance |
 
 ## Données
 
